@@ -1,5 +1,5 @@
 module.exports = {
-	description: "Front-end Testing Tools",
+	description: "My projects",
 	// skip if localhost
 	// skip if this is a new fork of the speedlify (not Zach’s)
 	skip: !process.env.CONTEXT || process.env.SITE_NAME !== "speedlify",
