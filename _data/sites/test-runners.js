@@ -12,9 +12,6 @@ module.exports = {
 		freshChrome: "site",
 	},
 	urls: [
-		"https://packovalli.com/",
-		"https://amihim.com/",
-		"https://transmedic.ru/",
-		"https://flacon.packovalli.com/"
+		"https://vk.com/"
 	]
 };
