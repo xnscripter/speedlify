@@ -8,6 +8,7 @@ module.exports = {
 		"https://packovalli.com/",
 		"https://amihim.com/",
 		"https://transmedic.ru/",
-		"https://flacon.packovalli.com/"
+		"https://flacon.packovalli.com/",
+		"https://medicapack.ru/"
 	]
 };
